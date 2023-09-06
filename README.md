@@ -36,6 +36,13 @@ Related videos with Arduino UNO and 128x64 OLED screen:
 ![THUMB_u8g2_custom_font](https://github.com/upiir/u8g2_custom_fonts/assets/117754156/41db457c-50a8-4be3-8894-ad982269bca6)
 
 
+Small animation:
+
+
+![u8g2_custom_fonts](https://github.com/upiir/u8g2_custom_fonts/assets/117754156/6c40700d-270c-4323-8ea1-040c4bc4cd9c)
+
+
+
 Screenshots from the video:
 
 
