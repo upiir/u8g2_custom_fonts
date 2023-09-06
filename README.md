@@ -2,6 +2,36 @@
 Arduino OLED u8g2 Custom Fonts
 
 
+**YOUTUBE VIDEO: https://youtu.be/WIAcy5FXuAA**
+
+**WOKWI SKETCH: https://wokwi.com/projects/375125168784452609**
+
+
+Links from the video:
+- Custom fonts FAQ: https://github.com/olikraus/u8g2/blob/c7dc077995ca513337a7d2a1970df693e18ee308/doc/faq.txt#L245
+- bdfconv utility: https://github.com/olikraus/u8g2/tree/master/tools/font/bdfconv
+- 128x64 SSD1306 OLED Display 1.54": https://s.click.aliexpress.com/e/_DCYdWXb 
+- 128x64 SSD1306 OLED Display 0.96": https://s.click.aliexpress.com/e/_DCKdvnh
+- 128x64 SSD1306 OLED Display 2.42": https://s.click.aliexpress.com/e/_DFdMoTh
+- Arduino UNO: https://s.click.aliexpress.com/e/_AXDw1h
+- Arduino breadboard prototyping shield: https://s.click.aliexpress.com/e/_ApbCwx
+- Fony Font Editor: http://hukka.ncn.fi/?fony
+- Photopea (online graphics editor like Photoshop): https://www.photopea.com/
+
+
+
+Related videos with Arduino UNO and 128x64 OLED screen:
+- Arduino OLED menu: https://youtu.be/HVHVkKt-ldc
+- U8g vs U8g2: https://youtu.be/K5e0lFRvZ2E
+- Arduino Parking Sensor - https://youtu.be/sEWw087KOj0
+- Turbo pressure gauge with Arduino and OLED display - https://youtu.be/JXmw1xOlBdk
+- Arduino Car Cluster with OLED Display - https://youtu.be/El5SJelwV_0
+- Knob over OLED Display - https://youtu.be/SmbcNx7tbX8
+- Arduino + OLED = 3D ? - https://youtu.be/kBAcaA7NAlA
+- Arduino OLED Gauge - https://youtu.be/xI6dXTA02UQ
+- Smaller & Faster Arduino - https://youtu.be/4GfPQoIRqW8
+- Save Image from OLED Display to PC - https://youtu.be/Ft2pRMVm44E
+
 
 ![THUMB_u8g2_custom_font](https://github.com/upiir/u8g2_custom_fonts/assets/117754156/41db457c-50a8-4be3-8894-ad982269bca6)
 
